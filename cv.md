@@ -1,8 +1,6 @@
 <!-- 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
+
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) -->
 # My CV
 ![Foto](./img/foto-cv.jpg "My foto")
@@ -18,6 +16,8 @@ function multiply(a, b){
 
 multiply(5, 9);
 ```
-6. 
-7. 
+6. Work experience: At the moment I haven't commercial development experience. But I have a final educational project completed at the end of the course "Web Layout "Basic"" on Skillbox. The educational project was created using HTML5, CSS3 and JS.
+[Link to source code on github](https://github.com/Elvira-del/blanchard-gallery)
+[Link to project hosting](http://blanchard-gallery.tw-team.com/)
+7. Education: Manager of State and Municipal Administration. At the moment I am taking courses in the profession of Front-end developer on Skillbox.
 8. 
