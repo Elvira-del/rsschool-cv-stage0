@@ -37,7 +37,7 @@ At the moment I have no commercial development experience. But I have a final ed
 ## Education:
 Manager of State and Municipal Administration. 
 
-At the moment I am taking Front-end developer courses on Skillbox.
+At the moment I am taking Front-end developer courses at Skillbox.
 
 ## Languages:
 * Russian - Native;
