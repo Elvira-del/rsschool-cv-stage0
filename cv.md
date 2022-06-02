@@ -4,7 +4,7 @@
 ## Contacts:
 * **Phone:** +7(921)447-09-87
 * **E-mail:** ninelostr@gmail.com
-* **Telegram:** [Telegram](https://t.me/krasnoe_soInce)
+* **Telegram:** @krasnoe_soInce
 * **Discord:** Red Sun#5147
 
 ## About me:
@@ -30,14 +30,14 @@ multiply(5, 9);
 ```
 
 ## Work experience:
-At the moment I haven't commercial development experience. But I have a final educational project completed at the end of the course "Web layout basics" on Skillbox. The educational project was created using HTML5, CSS3 and JS.
+At the moment I have no commercial development experience. But I have a final educational project completed at the end of the course "Web layout basics" on Skillbox. The educational project was created using HTML5, CSS3 and JS.
 * [Link to source code on github](https://github.com/Elvira-del/blanchard-gallery)
 * [Link to project hosting](http://blanchard-gallery.tw-team.com/)
 
 ## Education:
 Manager of State and Municipal Administration. 
 
-At the moment I am taking courses in the profession of Front-end developer on Skillbox.
+At the moment I am taking Front-end developer courses on Skillbox.
 
 ## Languages:
 * Russian - Native;
