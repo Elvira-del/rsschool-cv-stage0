@@ -19,5 +19,6 @@ multiply(5, 9);
 [Link to source code on github](https://github.com/Elvira-del/blanchard-gallery)
 
 [Link to project hosting](http://blanchard-gallery.tw-team.com/)
+
 7. Education: Manager of State and Municipal Administration. At the moment I am taking courses in the profession of Front-end developer on Skillbox.
 8. English level: A1.
