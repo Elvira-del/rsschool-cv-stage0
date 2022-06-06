@@ -1,5 +1,5 @@
 # Elvira Krutova
-![Photo](./img/photo-cv.jpg "My photo")
+![Photo](./assets/img/photo-cv.jpg "My photo")
 
 ## Contacts:
 * **Phone:** +7(921)447-09-87
