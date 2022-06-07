@@ -7,7 +7,7 @@
 * **Telegram:** @krasnoe_soInce
 * **Discord:** Red Sun#5147
 
-## About me:
+## Summary:
 The visual component attracts me the most in front-end development. Namely, that in the process of working on the layout, you can always see the result of your work.
 My primary aim is to make accessible and beautiful products for users.
 I like to be in a constant state of learning something new. I especially like to study what is the most difficult, as it motivates me.
@@ -35,9 +35,11 @@ At the moment I have no commercial development experience. But I have a final ed
 * [Link to project hosting](http://blanchard-gallery.tw-team.com/)
 
 ## Education:
-Manager of State and Municipal Administration. 
+Murmansk Academy of Economics and Management'2015
+Bachelor of Management, Manager of State and Municipal Administration 
 
-At the moment I am taking Front-end developer courses at Skillbox.
+## Courses:
+* Skillbox - Front-end developer; 
 
 ## Languages:
 * Russian - Native;
