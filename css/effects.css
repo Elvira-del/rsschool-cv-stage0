@@ -1,0 +1,55 @@
+/* focus */
+
+.link:focus-visible {
+    border-bottom: 1px solid var(--main-color);
+    color: var(--main-color);
+}
+
+.nav__link:focus-visible,
+.footer__link:focus-visible {
+    border-bottom: none;
+    color: var(--white-color);
+    box-shadow: 0 0 2px 3px var(--hover-color), 0 0 2px var(--hover-color) inset;
+}
+
+.burger:focus-visible {
+    box-shadow: 0 0 2px 3px var(--hover-color), 0 0 2px var(--hover-color) inset;
+}
+
+
+/* hover */
+
+@media (min-width: 1200px) {
+    .nav__link:hover:not(:focus-visible) {
+        color: var(--hover-color);
+    }
+    .nav__link:hover:not(:focus-visible)::after {
+        opacity: 1;
+        animation: navHover .3s linear;
+    }
+    .contacts__link:hover:not(:focus-visible) {
+        color: #000;
+    }
+    .experience__link:hover:not(:focus-visible) {
+        color: #000;
+    }
+    .footer__link:hover:not(:focus-visible) {
+        color: var(--hover-color);
+    }
+    .footer__link:hover:not(:focus-visible)::after {
+        opacity: 1;
+        animation: footerHover .3s linear;
+    }
+}
+
+
+/* active */
+
+.link:active:not(:focus-visible) {
+    color: var(--main-color);
+}
+
+.nav__link:active:not(:focus-visible),
+.footer__link:active:not(:focus-visible) {
+    color: var(--hover-color);
+}
